@@ -1,0 +1,6 @@
+.focus{background-color: #f8f8f8;cursor: pointer;}
+.selected{background-color: #f8f8f8;}
+.asc:after{content: "\25B2"; float: right; font-size: 13px;}
+.desc:after{content: "\25BC"; float: right; font-size: 13px;}
+#symbol{text-transform: uppercase;}
+#search-container{margin-top: 30px;}
